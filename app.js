@@ -2,7 +2,10 @@
 // Edit titles/order freely. `slug` must match files in /videos and /posters.
 const COLLECTIONS = {
   work: [
-    { slug: 'rfa-2026',        title: 'RFA 2026',          tag: 'Event',     dur: 52 },
+    { slug: 'hyrox-netanya',   title: 'HYROX Netanya',     tag: 'Event',     dur: 69 },
+    { slug: 'leah-lee-hype',   title: 'Leah Lee Edri Hype', tag: 'Athlete',  dur: 44 },
+    { slug: 'swift-eyewear',   title: 'Swift Eyewear',     tag: 'Brand',     dur: 36 },
+    { slug: 'rfa-2026',       title: 'RFA 2026',          tag: 'Event',     dur: 52 },
     { slug: 'lea-lee-edri',    title: 'Lea Lee Edri',      tag: 'Athlete',   dur: 20 },
     { slug: 'birthday-battle', title: 'Birthday Battle',   tag: 'Story',     dur: 139 },
     { slug: 'coach-1',         title: 'Coach 01',          tag: 'Coach',     dur: 32 },
